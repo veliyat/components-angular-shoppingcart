@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Cloning repo and Installing dependencies
 
-Run `https://github.com/veliyat/components-angular-shoppingcart.git` to clone this repo and then cd into project folder. Now run `npm install` to install project dependencies.
+Run `git clone https://github.com/veliyat/components-angular-shoppingcart.git` to clone this repo and then cd into project folder. Now run `npm install` to install project dependencies.
 
 ## Development server
 
